@@ -32,8 +32,8 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abdulrahmancodes/fm-rest-countries-api)
-- Live Site URL: [Add live site URL here](https://fm-rest-countries-api.netlify.app/)
+- [Solution URL](https://github.com/abdulrahmancodes/fem-rock-paper-scissors-project)
+- [Live Site URL](https://abdulrahmancodes.github.io/fem-rock-paper-scissors-project/)
 
 ## My Process
 
